@@ -1,0 +1,12 @@
+.bulb {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  border: solid 5px maroon;
+  border-radius: 100px;
+  /* display: flex; */
+  align-items: center;
+  justify-content: center;
+  padding: 40px;
+  color: aliceblue;
+}
